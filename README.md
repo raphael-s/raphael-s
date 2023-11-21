@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Raphael 👋🏻</h1>
 
-<!--
-**raphael-s/raphael-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Fullstack web developer from Bern, Switzerland</h3>
+<h4 align="center">Currently working at <a href="https://github.com/herrmann-AG/" target="_blank">Herrmann AG</a> in Langnau im Emmental</h4>
 
-Here are some ideas to get you started:
+<br/>
+<h2 align="center">Languages and Tools</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h3>Currently working with 🔵 Plone, 🐍 Python, ⚛️ React, 🐳 Docker</h3>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats-orpin-phi-95.vercel.app/api?username=raphael-s&theme=tokyonight&rank_icon=percentile&custom_title=GitHub%20Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats-orpin-phi-95.vercel.app/api/top-langs?username=raphael-s&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  </a>
+</div>
